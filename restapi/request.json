@@ -1,0 +1,83 @@
+﻿{
+  "TerminationInquiryRequest": {
+    "AcquirerId": "1996",
+    "Merchant": {
+      "Name": "THE BAIT SHOP",
+      "DoingBusinessAsName": "BAIT R US",
+      "Address": {
+        "Line1": "42 ELM AVENUE",
+        "Line2": "SUITE 201",
+        "City": "DALLAS",
+        "CountrySubdivision": "IL",
+        "Province": "US",
+        "PostalCode": "66579",
+        "Country": "USA"
+      },
+      "PhoneNumber": "3165557625",
+      "AltPhoneNumber": "3165557625",
+      "NationalTaxId": "888596927",
+      "CountrySubdivisionTaxId": "492321030",
+      "ServiceProvLegal": "XYZ FINANCIAL SERVICE INCORPORATED",
+      "ServiceProvDBA": "XYZ FINANCIAL SERVICE",
+      "Url": [
+        "www.testmerchant.com"
+      ],
+      "Principal": [
+        {
+          "FirstName": "DAVID",
+          "MiddleInitial": "P",
+          "LastName": "SMITH",
+          "Address": {
+            "Line1": "42 ELM AVENUE",
+            "Line2": "SUITE 201",
+            "City": "DALLAS",
+            "CountrySubdivision": "IL",
+            "Province": "US",
+            "PostalCode": "66579",
+            "Country": "USA"
+          },
+          "PhoneNumber": "3165557625",
+          "AltPhoneNumber": "3165557625",
+          "NationalId": "541022104",
+          "DriversLicense": {
+            "Number": "M15698025",
+            "CountrySubdivision": "IL",
+            "Country": "USA"
+          }
+        }
+      ],
+      "SearchCriteria": {
+        "SearchAll": "N",
+        "Region": [
+          "A"
+        ],
+        "Country": [
+          "USA"
+        ],
+        "MinPossibleMatchCount": "3"
+      },
+      "AddedOnDate": "10/13/2015",
+      "TerminationReasonCode": "13",
+      "AddedByAcquirerID": "1234",
+      "UrlGroup": [
+        {
+          "ExactMatchUrls": {
+            "Url": [
+              "WWW.SHOESHOP.COM"
+            ]
+          },
+          "CloseMatchUrls": {
+            "Url": [
+              "WWW.SHOESHOP.COM"
+            ]
+          },
+          "NoMatchUrls": {
+            "Url": [
+              "WWW.SHOESHOP.COM"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
